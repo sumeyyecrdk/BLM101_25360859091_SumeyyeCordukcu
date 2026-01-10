@@ -8,7 +8,7 @@ SOYAD: ÇÖRDÜKÇÜ
 Veri Depolama ve Sıkıştırma Algoritmaları
 
 # YOUTUBE LİNKİ
-
+https://youtu.be/9to7dFJZfpg
 
 # PROJE AÇIKLAMASI
 Yazılan kod; kullanıcıdan alınan, tekrarlı karakterler içeren bir metnin tekrarlayan kısımlarını sıkıştırmak için tasarlanmıştır. Kodun çalışması için kurulum gerekmiyor.
